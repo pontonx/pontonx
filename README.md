@@ -25,7 +25,7 @@ Jestem pasjonatem programowania i grania w gry. Lubię tworzyć ciekawe projekty
 ### 📊 Statystyki GitHub:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=pontonx&show_icons=true&theme=radical" alt="statystyki"/>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pontonx&theme=dark)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pontonx&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
